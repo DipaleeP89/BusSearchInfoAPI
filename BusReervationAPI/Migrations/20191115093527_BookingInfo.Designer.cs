@@ -4,14 +4,16 @@ using BusReervationAPI.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace BusReervationAPI.Migrations
 {
     [DbContext(typeof(BusInfoContext))]
-    partial class BusInfoContextModelSnapshot : ModelSnapshot
+    [Migration("20191115093527_BookingInfo")]
+    partial class BookingInfo
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -30,12 +32,9 @@ namespace BusReervationAPI.Migrations
                     b.Property<string>("Email")
                         .IsRequired();
 
-                    b.Property<string>("SeatNo");
-
                     b.Property<DateTime>("TravelDate");
 
-                    b.Property<string>("UserMobile")
-                        .IsRequired();
+                    b.Property<int>("UserMobile");
 
                     b.Property<string>("Username")
                         .IsRequired();

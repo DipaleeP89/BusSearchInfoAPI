@@ -15,5 +15,6 @@ namespace BusReervationAPI.Infrastructure
         }
 
         public DbSet<BusInfo> BusInfo { get; set; }
+        public DbSet<BookingInfo> BookingInfos { get; set; }
     }
 }
