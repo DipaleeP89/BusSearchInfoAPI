@@ -1,0 +1,14 @@
+D:\BusReervationAPI\BusReervationAPI\bin\Debug\netcoreapp2.2\BusReervationAPI.deps.json
+D:\BusReervationAPI\BusReervationAPI\bin\Debug\netcoreapp2.2\BusReervationAPI.runtimeconfig.json
+D:\BusReervationAPI\BusReervationAPI\bin\Debug\netcoreapp2.2\BusReervationAPI.runtimeconfig.dev.json
+D:\BusReervationAPI\BusReervationAPI\bin\Debug\netcoreapp2.2\BusReervationAPI.dll
+D:\BusReervationAPI\BusReervationAPI\obj\Debug\netcoreapp2.2\BusReervationAPI.csprojAssemblyReference.cache
+D:\BusReervationAPI\BusReervationAPI\obj\Debug\netcoreapp2.2\BusReervationAPI.csproj.CoreCompileInputs.cache
+D:\BusReervationAPI\BusReervationAPI\obj\Debug\netcoreapp2.2\BusReervationAPI.RazorAssemblyInfo.cache
+D:\BusReervationAPI\BusReervationAPI\obj\Debug\netcoreapp2.2\BusReervationAPI.RazorAssemblyInfo.cs
+D:\BusReervationAPI\BusReervationAPI\obj\Debug\netcoreapp2.2\BusReervationAPI.AssemblyInfoInputs.cache
+D:\BusReervationAPI\BusReervationAPI\obj\Debug\netcoreapp2.2\BusReervationAPI.AssemblyInfo.cs
+D:\BusReervationAPI\BusReervationAPI\obj\Debug\netcoreapp2.2\BusReervationAPI.RazorTargetAssemblyInfo.cache
+D:\BusReervationAPI\BusReervationAPI\bin\Debug\netcoreapp2.2\BusReervationAPI.pdb
+D:\BusReervationAPI\BusReervationAPI\obj\Debug\netcoreapp2.2\BusReervationAPI.dll
+D:\BusReervationAPI\BusReervationAPI\obj\Debug\netcoreapp2.2\BusReervationAPI.pdb
